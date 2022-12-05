@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pdixon-tonic
 - 👀 I’m interested in just about everything
-- 🌱 I’m currently learning DOTNET fundamentals and drive edge-cases
+- 🌱 I’m currently learning DOTNET fundamentals and DB driver edge-cases
 - 💞️ I’m looking to collaborate on whatever needs collaborating
 - 📫 Easiest to reach me via Slack at @pdixon, urgent needs contact @Emily
 
